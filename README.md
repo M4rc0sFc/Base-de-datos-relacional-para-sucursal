@@ -34,7 +34,7 @@ grocery-store-db/
 ├── dcl/
 │   └── access_control.sql
 │
-├── queries/
+├── dql/
 │   └── analysis_queries.sql
 │
 ├── docs/
